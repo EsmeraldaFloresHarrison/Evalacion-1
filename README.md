@@ -1,6 +1,10 @@
-#EVALUACIÓN 1
-
-
+/*
+Author: Flores Harrison Rosa Esmralda
+date: 21/02/23
+Description: El usuario debe contestar 10 preguntas y cada una de ellas sumará una cantidad determinada de puntos, al finalizar se desplegará un mensaje para indicarle al usuario si el riesgo vale la pena.
+Param: <Respuestas>  
+*/
+    
 #include <stdio.h>
 #include <string.h>
 
