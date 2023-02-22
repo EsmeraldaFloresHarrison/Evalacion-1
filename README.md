@@ -1,8 +1,12 @@
 /*
 Author: Flores Harrison Rosa Esmralda
+
 Date: 22/02/23
+
 Description: El usuario debe contestar 10 preguntas y cada una de ellas sumará una cantidad determinada de puntos, al finalizar se desplegará un mensaje para 
+
 Indicarle al usuario si el riesgo vale la pena.
+
 Param: <Respuestas>  
 */
     
