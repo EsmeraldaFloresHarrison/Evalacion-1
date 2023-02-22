@@ -11,6 +11,7 @@ Param: <Respuestas>
 */
     
 #include<stdio.h>
+    
 #define PMaximos 10
 
 int  nivel_amor(){
