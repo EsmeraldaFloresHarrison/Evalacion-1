@@ -14,7 +14,7 @@ Description: El usuario debe contestar 10 preguntas y cada una de ellas sumará 
 
 Param: <Int>  
 
-version: <1.00>
+version: <2.00>
 
 name <resultado>
 
@@ -30,11 +30,11 @@ Parámetro de 10 valores
 return <número entero>
 
 
-name <compatibilidad>
+name <suma>
 
 param <int>
 
-return <número entero
+return <número entero>
 
 */
     
